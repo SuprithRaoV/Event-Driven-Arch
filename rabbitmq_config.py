@@ -1,0 +1,8 @@
+RABBITMQ_HOST = "localhost"
+EXCHANGE_NAME = "broker_exchange"
+ORDER_QUEUE = "order_queue"
+PAYMENT_QUEUE = "payment_queue"
+INVENTORY_QUEUE = "inventory_queue"
+FULFILLMENT_QUEUE = "fulfillment_queue"
+SHIPPING_QUEUE = "shipping_queue"
+NOTIFICATION_QUEUE = "notification_queue"
